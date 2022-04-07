@@ -1,5 +1,5 @@
 # python-name-sorter
-A Python command-line program that sorts names in a .txt file in ascending order first by the length of the name, and then alphabetically.
+A Python command-line program that can sort names in a .txt file in ascending order first by the length of the name, and then alphabetically or in reverse order by length and alphabetically.
 
 1. Put the namesorter.py source code file in the same folder as the Sort Me.txt file.
 
